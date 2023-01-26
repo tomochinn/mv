@@ -5,10 +5,6 @@
   color: #6c6b6d;
 }
 
-a {
-  text-decoration: none;
-}
-
 .main-visual {
   width: 100%;
   height: 400px;
@@ -35,9 +31,5 @@ a {
 
 .blog-text {
   padding-bottom: 30px;
-  border-bottom: solid 0.6px #c0c0c0;
-}
-
-.webサイト {
   border-bottom: solid 0.6px #c0c0c0;
 }
